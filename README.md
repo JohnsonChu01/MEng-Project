@@ -23,6 +23,6 @@ analysis2.m: Ensemble average
 
 analysis3.m: Envelope analysis
 
-analysis4.m Outlier elimination
+analysis4.m: Outlier elimination
 
 Result1.m: Ensemble averages of all the instantaneous frequencies
