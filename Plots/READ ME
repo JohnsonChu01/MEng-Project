@@ -1,0 +1,13 @@
+This section contains the plots of the data sets that are not shown in report
+
+Abbreviations:
+
+IF: Instantaneous Frequency
+
+RPE: Respiration Signal
+
+ENV: Envelope of the instantaneous frequency
+
+FFT: In frequency domain
+
+sFFT: In frequency domain (smoothed)
